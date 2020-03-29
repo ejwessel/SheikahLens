@@ -3,7 +3,7 @@
     "document_id": "LoOKKW5pSdw8IYLFmBzS",
     "original_document_id": "LoOKKW5pSdw8IYLFmBzS",
     "version": "23",
-    "lastChanged": "1585444659990",
+    "lastChanged": "1585446137908",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -257,7 +257,7 @@
                     },
                     {
                         "k": "3",
-                        "v": "8a09251ba9d94840df1ba8fdf1f6bcb4"
+                        "v": "62c961cd24fde5d9de32461aa1feb8c3"
                     },
                     {
                         "k": "5",
@@ -283,9 +283,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-03-28T21:17:38",
+                        "lastModified": "2020-03-28T21:40:19",
                         "name": "Public",
-                        "hash": "bbe06765f6fc53fd384cec61e7b570d4",
+                        "hash": "d889a0ae4c859f3213fdfd6b72cea34e",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -310,9 +310,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-03-28T00:49:39",
+                                "lastModified": "2020-03-28T21:40:19",
                                 "name": "Sheikah.png",
-                                "hash": "8a09251ba9d94840df1ba8fdf1f6bcb4",
+                                "hash": "62c961cd24fde5d9de32461aa1feb8c3",
                                 "children": ""
                             },
                             {
@@ -402,7 +402,7 @@
                         "fileId": "3",
                         "originalId": "4",
                         "publicId": "3",
-                        "source": "\/Users\/ejwessel\/Desktop\/Sheikah.png",
+                        "source": "\/Users\/ejwessel\/Dev\/SheikahLens\/Public\/Sheikah.png",
                         "additional": ""
                     },
                     {
@@ -423,13 +423,8 @@
         },
         "InspectorController": {
             "selection": {
-                "resources": [
-                    {
-                        "uid": "1585444611755362:7424",
-                        "path_list": [
-                            "Screen Shot 2020-03-28 at 21"
-                        ]
-                    }
+                "objects": [
+                    "1585442921698836:1834"
                 ]
             }
         },
